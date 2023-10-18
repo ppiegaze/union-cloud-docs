@@ -1,0 +1,19 @@
+:root {
+    /***
+    Colors here are borrowed from the Union Cloud console theme
+    See: https://github.com/unionai/cloud/blob/main/clients/packages/theme/src/Theme/muiTheme.ts
+    ***/
+    --vp-c-brand-1: #4259B1; /* union/blue:6 */
+    --vp-c-brand-2: #5D75CE; /* union/blue:5 */
+    --vp-c-bg-alt: #f2f3f3; /* primary/union:100 */
+    --vp-nav-logo-height: 48px;
+
+    .row {
+        display: flex;
+    }
+
+    .column {
+        flex: 33.33%;
+        padding: 5px;
+    }
+}

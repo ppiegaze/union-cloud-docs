@@ -1,0 +1,15 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# IntelliJ
+.idea/
+
+# macOS
+.DS_Store
+
+# VitePress
+node_modules
+.vitepress/dist
+.vitepress/cache
+.vitepress/.temp
