@@ -28,6 +28,10 @@ export default defineConfig({
         link: "/platform-architecture"
       },
       {
+        text: "New platform architecture",
+        link: "/new-platform-architecture"
+      },
+      {
         text: "Data plane setup",
         link: "/data-plane-setup/index",
         collapsed: false,

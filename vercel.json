@@ -1,5 +1,0 @@
-{
-  "redirects": [
-    { "source": "/user", "destination": "/api/user", "statusCode": 301 }
-  ]
-}
