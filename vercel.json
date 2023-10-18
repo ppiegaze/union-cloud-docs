@@ -1,5 +1,3 @@
 {
-    "redirects": [
-      { "source": "/platform-architecture", "destination": "/new-platform-architecture", "statusCode": 301 }
-    ]
+    "redirects": []
   }
